@@ -1,0 +1,25 @@
+{
+  "name": "crypto_chat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "http": "^0.0.1-security",
+    "jsonwebtoken": "^9.0.2",
+    "weboscket": "^1.0.2",
+    "websocket": "^1.0.35",
+    "ws": "^8.18.0"
+  }
+}
